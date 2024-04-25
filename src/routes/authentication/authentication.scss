@@ -4,3 +4,9 @@
     width: 900px;
     margin: 30px auto;
 }
+@media screen and (max-width:760px) {
+    .authentication-container{
+     flex-direction: column;
+     width: 100%;
+    }
+}

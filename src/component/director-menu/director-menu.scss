@@ -6,4 +6,9 @@
   
   }
   
- 
+  @media screen and (max-width:760px) {
+    .categories-container {
+      flex-direction: column;
+    
+    }
+  }

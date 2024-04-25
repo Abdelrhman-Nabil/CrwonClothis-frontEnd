@@ -10,3 +10,10 @@
     text-align: center;
 }
 
+@media screen and (max-width:760px) {
+    .category-container{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    }
+}

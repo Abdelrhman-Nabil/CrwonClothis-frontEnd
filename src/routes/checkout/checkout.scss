@@ -30,3 +30,14 @@
     }
   }
   
+  @media screen and (max-width:760px) {
+    .checkout-container{
+      width: 100%;
+    }
+    .checkout-container .checkout-header{
+      font-size: 11px;
+    }
+    .checkout-container .checkout-header .header-block{
+      width: 15px;
+    }
+  }
